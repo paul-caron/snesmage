@@ -11,4 +11,4 @@ From the command line:
 ```
 ./snesmage myimage.jpg.png.gif.bmp
 ```
-
+Then you should have a binary file appear in the folder. That file can then be put into an assembly program as pure data for making sprites : assuming you are using a "grayscale" palette to go along with it. I include in this repo a red-grayscale palette which should work also.
